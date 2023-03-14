@@ -11,7 +11,7 @@ const sum = n => {
 
     arr.map(ns => {           
         if( ((ns % 3) == 0) || (( ns % 5) == 0) ){
-            multiples.push(ns);
+            multiples.push(ns); // poderia usar um somatório de ns em uma váriavel qualquer e dar o return dela no final de sum.
         };
     });
 
