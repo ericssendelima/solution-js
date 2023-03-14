@@ -1,2 +1,2 @@
-# solution-js
-solving problems with JS
+
+Solving problems with JS
